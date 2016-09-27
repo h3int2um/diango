@@ -31,7 +31,7 @@ di chuyển đến mục `Option 1: Get the latest official version`, thực hi�
 			
 		Nếu cài đặt phiên theo lệnh bên trên, thì kết quả trả về là:
 		
-				Django version: 1.10.1
+			Django version: 1.10.1
 
 	+ Tải script [django-version.py](https://github.com/h3int2um/django/blob/master/django-tutorials/code-django-tutorials/django-version.py)
 	
