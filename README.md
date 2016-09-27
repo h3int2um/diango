@@ -1,2 +1,2 @@
 # diango
-Lập trình web với Diango
+Lập trình web với Django
